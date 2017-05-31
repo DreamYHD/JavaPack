@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AnnotationTest/AnnotationTest.iml" filepath="$PROJECT_DIR$/AnnotationTest/AnnotationTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IoTest/IoTest.iml" filepath="$PROJECT_DIR$/IoTest/IoTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaPack.iml" filepath="$PROJECT_DIR$/JavaPack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lambda/LambdaTest.iml" filepath="$PROJECT_DIR$/Lambda/LambdaTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ReflectTest/ReflectTest.iml" filepath="$PROJECT_DIR$/ReflectTest/ReflectTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestForExam/TestForExam.iml" filepath="$PROJECT_DIR$/TestForExam/TestForExam.iml" />
+    </modules>
+  </component>
+</project>
